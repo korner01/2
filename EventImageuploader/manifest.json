@@ -1,0 +1,23 @@
+{
+  "id": "EventImageuploader",
+  "version": "0.0.1",
+  "name": {
+    "en": "Event image Uploader",
+    "sv": "Bilduppladdare för event"
+  },
+  "author": "Uddevalla kommun",
+  "description": {
+    "en": "Upload image for event",
+    "sv": "Uppladdning av bilder för event"
+  },
+  "helpUrl": "https://example.com/webapps",
+  "type": "WebApp",
+  "bundled": true,
+  "requiredLibs": {
+    "react": "17.0.2"
+  },
+  "storage": {
+    "collectionDataStore": "eventImages"
+  },
+  "requirePrivileged": true
+}

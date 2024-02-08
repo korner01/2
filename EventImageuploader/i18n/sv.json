@@ -1,0 +1,12 @@
+{
+  "name": "Namn",
+  "namePlaceholder": "Ange ditt namn",
+  "email": "E-post",
+  "emailPlaceholder": "Ange din e-post",
+  "description": "Bildbeskrivning",
+  "descriptionPlaceholder": "Ange en bildbeskrivning",
+  "image": "Bild",
+  "uploadImage": "Ladda upp bild",
+  "noPrivUserConfigured": "Ingen priviligerad användare vald",
+  "uploadSuccess": "Tack för att du delade din bild!"
+}

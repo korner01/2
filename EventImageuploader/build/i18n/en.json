@@ -1,0 +1,12 @@
+{
+  "name": "Name",
+  "namePlaceholder": "Provide your name",
+  "email": "Email",
+  "emailPlaceholder": "Provide your email",
+  "description": "Image description",
+  "descriptionPlaceholder": "Provide an image description",
+  "image": "Image",
+  "uploadImage": "Upload image",
+  "noPrivUserConfigured": "No privileged user selected",
+  "uploadSuccess": "Thank you for sharing your picture!"
+}
